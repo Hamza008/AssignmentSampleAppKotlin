@@ -4,15 +4,14 @@ This Android app displays a list of items fetched from a mock public API. The ap
 
 ## Table of Contents
 
-- [Features](#features)
+- [Features](#Features)
 - [Project Structure](#project-structure)
 - [Libraries Used](#libraries-used)
 - [Setup and Installation](#setup-and-installation)
 - [How to Run the App](#how-to-run-the-app)
 - [Testing](#testing)
 - [Bonus Features](#bonus-features)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
@@ -65,7 +64,7 @@ com.example.assignmentapplication
 
 1. *Clone the repository:*
    
-git clone https://github.com/yourusername/assignmentapplication.git
+git clone git@github.com:Hamza008/AssignmentSampleAppKotlin.git
 
 2. *Open the project in Android Studio:*
    - Start Android Studio.
@@ -86,7 +85,8 @@ git clone https://github.com/yourusername/assignmentapplication.git
 
 1. *Ensure you have an Android device or emulator set up.*
 2. *Run the app from Android Studio* by selecting the target device and clicking the Run button.
-3. *Navigate through the app*:
+3. *Make sure to have internet connection on device or emulator.
+4. *Navigate through the app*:
    - The main screen will display a list of items fetched from the mock API.
    - The app will show a loading indicator while the data is being fetched.
    - If there’s an error during data fetching, an error message will be displayed.
@@ -112,14 +112,5 @@ git clone https://github.com/yourusername/assignmentapplication.git
 - *Data Binding*: The app uses data binding to bind UI components in the layout to data sources in the app.
 - *ViewModel and LiveData*: These are used to manage UI-related data in a lifecycle-conscious way.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request for any changes or improvements.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 This README.md file provides a comprehensive guide to understanding, setting up, and running your project. Be sure to update the git clone URL and any other specifics that pertain to your particular project.
