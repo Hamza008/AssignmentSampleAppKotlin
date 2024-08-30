@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AssignmentApplication" parent="Theme.AppCompat" />
+</resources>
