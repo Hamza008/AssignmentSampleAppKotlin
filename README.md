@@ -111,6 +111,3 @@ git clone git@github.com:Hamza008/AssignmentSampleAppKotlin.git
 
 - *Data Binding*: The app uses data binding to bind UI components in the layout to data sources in the app.
 - *ViewModel and LiveData*: These are used to manage UI-related data in a lifecycle-conscious way.
-
-
-This README.md file provides a comprehensive guide to understanding, setting up, and running your project. Be sure to update the git clone URL and any other specifics that pertain to your particular project.
